@@ -24,7 +24,7 @@ and so on...
 Please note that instead of words, the 300-dimensional vectors will be input into the model as discussed above.
 
 ## Model Architecture
-![Project Architecture](architecture.jpeg)
+![Project Architecture](architecture.jpg)
 
 ## Evaluation 
 The model is evaluated using the BLEU score.
